@@ -1,0 +1,6 @@
+C:\div\Training.Plugins\Task1Plugins\bin\Debug\Task1Plugins.dll
+C:\div\Training.Plugins\Task1Plugins\bin\Debug\Task1Plugins.pdb
+C:\div\Training.Plugins\Task1Plugins\obj\Debug\Task1Plugins.csproj.AssemblyReference.cache
+C:\div\Training.Plugins\Task1Plugins\obj\Debug\Task1Plugins.csproj.CoreCompileInputs.cache
+C:\div\Training.Plugins\Task1Plugins\obj\Debug\Task1Plugins.dll
+C:\div\Training.Plugins\Task1Plugins\obj\Debug\Task1Plugins.pdb

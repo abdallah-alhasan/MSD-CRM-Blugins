@@ -1,0 +1,2 @@
+C:\div\Training.Plugins\discount\obj\Debug\Discount.csproj.AssemblyReference.cache
+C:\div\Training.Plugins\discount\obj\Debug\Discount.csproj.CoreCompileInputs.cache
